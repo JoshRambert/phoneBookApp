@@ -1,0 +1,9 @@
+C:\Users\Joshua\Desktop\C#\phoneBookApp\phoneBookApp\bin\Debug\phoneBookApp.exe.config
+C:\Users\Joshua\Desktop\C#\phoneBookApp\phoneBookApp\bin\Debug\phoneBookApp.exe
+C:\Users\Joshua\Desktop\C#\phoneBookApp\phoneBookApp\bin\Debug\phoneBookApp.pdb
+C:\Users\Joshua\Desktop\C#\phoneBookApp\phoneBookApp\obj\Debug\phoneBookApp.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\C#\phoneBookApp\phoneBookApp\obj\Debug\phoneBookApp.Form1.resources
+C:\Users\Joshua\Desktop\C#\phoneBookApp\phoneBookApp\obj\Debug\phoneBookApp.Properties.Resources.resources
+C:\Users\Joshua\Desktop\C#\phoneBookApp\phoneBookApp\obj\Debug\phoneBookApp.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\C#\phoneBookApp\phoneBookApp\obj\Debug\phoneBookApp.exe
+C:\Users\Joshua\Desktop\C#\phoneBookApp\phoneBookApp\obj\Debug\phoneBookApp.pdb
