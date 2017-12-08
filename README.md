@@ -1,1 +1,2 @@
-# phoneBookApp creates a list of contacts and gets a list of contacts
+# phoneBookApp reads a list of contacts shows their name and their phone number
+
